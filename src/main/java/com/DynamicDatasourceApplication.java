@@ -5,7 +5,7 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-@MapperScan(basePackages = "com.mljr.yulv.dao.mapper")
+@MapperScan(basePackages = "com.hy.dynamicdatasource.dao.mapper")
 public class DynamicDatasourceApplication {
 
     public static void main(String[] args) {

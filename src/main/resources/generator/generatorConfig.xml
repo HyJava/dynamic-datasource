@@ -104,7 +104,7 @@
                 注意：如果在key class或者record class中有root class相同的属性，MBG就不会重新生成这些属性了，包括：
                     1，属性名相同，类型相同，有相同的getter/setter方法；
              -->
-            <property name="rootClass" value="com.mljr.yulv.dao.BaseModel"/>
+            <property name="rootClass" value="com.hy.dynamicdatasource.dao.BaseModel"/>
 
             <!-- 设置是否在getter方法中，对String类型字段调用trim()方法 -->
             <property name="trimStrings" value="true"/>
@@ -136,7 +136,7 @@
             <property name="enableSubPackages" value="true"/>
 
             <!-- 可以为所有生成的接口添加一个父接口，但是MBG只负责生成，不负责检查 -->
-            <property name="rootInterface" value="com.mljr.yulv.dao.BaseMapper"/>
+            <property name="rootInterface" value="com.hy.dynamicdatasource.dao.BaseMapper"/>
         </javaClientGenerator>
 
 

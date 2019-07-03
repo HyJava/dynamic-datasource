@@ -1,4 +1,4 @@
-package com.mljr.yulv.dao.domain;
+package com.hy.dynamicdatasource.dao.domain;
 
 import java.util.ArrayList;
 import java.util.Date;

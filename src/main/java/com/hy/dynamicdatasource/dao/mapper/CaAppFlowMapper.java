@@ -1,8 +1,8 @@
-package com.mljr.yulv.dao.mapper;
+package com.hy.dynamicdatasource.dao.mapper;
 
-import com.mljr.yulv.dao.BaseMapper;
-import com.mljr.yulv.dao.domain.CaAppFlow;
-import com.mljr.yulv.dao.domain.CaAppFlowExample;
+import com.hy.dynamicdatasource.dao.BaseMapper;
+import com.hy.dynamicdatasource.dao.domain.CaAppFlow;
+import com.hy.dynamicdatasource.dao.domain.CaAppFlowExample;
 import java.util.List;
 import org.apache.ibatis.annotations.Param;
 

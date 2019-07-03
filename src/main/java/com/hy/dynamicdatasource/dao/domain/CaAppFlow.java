@@ -1,6 +1,7 @@
-package com.mljr.yulv.dao.domain;
+package com.hy.dynamicdatasource.dao.domain;
 
-import com.mljr.yulv.dao.BaseModel;
+import com.hy.dynamicdatasource.dao.BaseModel;
+
 import java.util.Date;
 
 /**

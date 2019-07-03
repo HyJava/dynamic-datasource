@@ -1,9 +1,9 @@
 package com.hy.dynamicdatasource;
 
 import com.hy.dynamicdatasource.config.DataSourceSwitch;
-import com.mljr.yulv.dao.domain.CaAppInfoExtend;
-import com.mljr.yulv.dao.domain.CaAppInfoExtendExample;
-import com.mljr.yulv.dao.mapper.CaAppInfoExtendMapper;
+import com.hy.dynamicdatasource.dao.domain.CaAppInfoExtend;
+import com.hy.dynamicdatasource.dao.domain.CaAppInfoExtendExample;
+import com.hy.dynamicdatasource.dao.mapper.CaAppInfoExtendMapper;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;
